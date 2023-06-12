@@ -10,7 +10,7 @@ O player de música possui os seguintes recursos:
 
 - Like: Os usuários podem marcar suas músicas favoritas com um "like" para facilitar o acesso posteriormente. Isso é especialmente útil quando há uma grande biblioteca de músicas disponíveis.
 
-- Seleção aleatória de músicas: O player tem a capacidade de selecionar aleatoriamente uma música da biblioteca para reprodução. Isso adiciona variedade e surpresa à experiência de ouvir música.
+- Seleção aleatória de músicas: O player tem a capacidade de selecionar aleatoriamente uma música. Isso adiciona variedade e surpresa à experiência de ouvir música.
 
 - Voltar ao início: O player possui um botão que permite voltar ao início da música atual. Isso é útil quando o usuário deseja ouvir novamente uma parte específica da música.
 
@@ -34,13 +34,5 @@ Ao desenvolver este projeto, você irá adquirir conhecimentos valiosos, incluin
 
 4. Utilize os conceitos e o código fornecido neste projeto como base para expandir e personalizar o player de música de acordo com suas preferências e necessidades.
 
-## Contribuição
 
-Se você quiser contribuir para este projeto, fique à vontade para criar um fork do repositório, implementar novos recursos ou correções de bugs e enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE). Sinta-se à vontade para utilizar e modificar este código de acordo com as diretrizes da licença.
-
-Espero que este projeto lhe proporcione uma experiência divertida e educacional na construção de aplicações web interativas. Divirta-se e aproveite o poder do JavaScript puro, HTML e CSS puros!
 
